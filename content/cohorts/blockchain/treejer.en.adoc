@@ -1,0 +1,43 @@
+---
+title: Treejer
+weight: 50
+categories: "team"
+tags: ["team"]
+type: profiles
+
+description: Forest-based climate action protocol to track trees and growth, a financing tool to facilitate micro-loans and payments to rural tree planters.
+country: Iran
+date: 2021-07-25
+github: https://github.com/treejer
+linkedin: https://www.linkedin.com/company/treejer/
+twitter: https://twitter.com/treejertalks
+website: https://treejer.com/
+community: https://discuss.treejer.com/
+logo: /inventory/cohorts/logo-treejer.png
+sdgs:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
+    - 12
+    - 13
+    - 14
+    - 15
+    - 16
+    - 17
+dpgs:
+    - 1
+    - 2
+
+---
+
+Treejer is an open-source and forest-based climate action protocol to track trees and growth, a financing tool to facilitate micro-loans and payments to rural tree planters.
+Treejer has built tech for climate credits, on-boarded 100 users to provided funding for 1000 trees.
+They have three active planting sites (Green Blocks) and ten sites in the pipeline.
