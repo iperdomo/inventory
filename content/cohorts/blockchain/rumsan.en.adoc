@@ -1,0 +1,44 @@
+---
+title: Rumsan
+weight: 40
+categories: "team"
+tags: ["team"]
+type: profiles
+
+description: Digital Cash and Voucher Assistance (CVA) management system.
+country: Nepal
+date: 2021-07-25
+github: https://github.com/esatya
+linkedin: https://www.linkedin.com/company/esatya/
+twitter: https://twitter.com/rahataid
+website: https://rahat.io/
+community: ""
+logo: /inventory/cohorts/logo-rumsan.png
+sdgs:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
+    - 12
+    - 13
+    - 14
+    - 15
+    - 16
+    - 17
+dpgs:
+    - 1
+    - 2
+
+---
+
+Digital Cash and Voucher Assistance (CVA) management system.
+The Rahat system, developed by Rumsan, uses mobile-based blockchain tokens for emergency response and recovery programs for humanitarian agencies.
+Rahat manages and monitors the flow of transactions in cash distribution projects, and provide real-time visibility into the flow of the funds.
+They have conducted two pilots across 200 households.
