@@ -15,23 +15,8 @@ website: https://bloinx.io/
 community: https://t.me/bloinx
 logo: /inventory/cohorts/logo-bx-smart-labs.png
 sdgs:
-    - 1
-    - 2
-    - 3
-    - 4
     - 5
-    - 6
-    - 7
     - 8
-    - 9
-    - 10
-    - 11
-    - 12
-    - 13
-    - 14
-    - 15
-    - 16
-    - 17
 dpgs:
     - 1
     - 2
